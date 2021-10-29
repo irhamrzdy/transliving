@@ -1,0 +1,408 @@
+.homepage-while-hover-produk {
+    background-color: white;
+    height: 395px;
+    position: relative;
+    width: 1440px;
+}
+
+.homepage-while-hover-produk .overlap-group2 {
+    background-color: #4c4c4c;
+    height: 231px;
+    left: 430px;
+    position: absolute;
+    top: 52px;
+    width: 836px;
+}
+
+.homepage-while-hover-produk .overlap-group3 {
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 91px;
+}
+
+.homepage-while-hover-produk .furnitur {
+    color: white;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: bold;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 91px;
+}
+
+.homepage-while-hover-produk .sofa {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 21px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 30px;
+    width: 60px;
+}
+
+.homepage-while-hover-produk .pajangan {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 184px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 50px;
+    width: 60px;
+}
+
+.homepage-while-hover-produk .solusi-penyimpanan {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 184px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 79px;
+    width: 142px;
+}
+
+.homepage-while-hover-produk .overlap-group4 {
+    height: 58px;
+    left: 364px;
+    position: absolute;
+    top: 52px;
+    width: 171px;
+}
+
+.homepage-while-hover-produk .text-1 {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    top: 0;
+    width: 171px;
+}
+
+.homepage-while-hover-produk .peralatan-memasak {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    top: 28px;
+    width: 171px;
+}
+
+.homepage-while-hover-produk .overlap-group5 {
+    height: 58px;
+    left: 560px;
+    position: absolute;
+    top: 24px;
+    width: 191px;
+}
+
+.homepage-while-hover-produk .text-2 {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 3px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 28px;
+    width: 171px;
+}
+
+.homepage-while-hover-produk .text-8 {
+    color: white;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: bold;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 191px;
+}
+
+.homepage-while-hover-produk .text-3 {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 563px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 82px;
+    width: 259px;
+}
+
+.homepage-while-hover-produk .text-4 {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 364px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 110px;
+    width: 171px;
+}
+
+.homepage-while-hover-produk .text-5 {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 563px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 110px;
+    width: 171px;
+}
+
+.homepage-while-hover-produk .dekorasi-dinding {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 184px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 108px;
+    width: 142px;
+}
+
+.homepage-while-hover-produk .tekstil-aksesoris {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 184px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 137px;
+    width: 142px;
+}
+
+.homepage-while-hover-produk .karpet-keset {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 184px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 164px;
+    width: 142px;
+}
+
+.homepage-while-hover-produk .meja {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 21px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 82px;
+    width: 60px;
+}
+
+.homepage-while-hover-produk .kursi {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 21px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 111px;
+    width: 60px;
+}
+
+.homepage-while-hover-produk .rak-penyimpanan {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 21px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 140px;
+    width: 128px;
+}
+
+.homepage-while-hover-produk .text-6 {
+    color: white;
+    font-size: 13px;
+    font-family: Roboto;
+    left: 21px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 167px;
+    width: 155px;
+}
+
+.homepage-while-hover-produk .aksesori-dekorasi {
+    color: white;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: bold;
+    left: 169px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+    width: 161px;
+}
+
+.homepage-while-hover-produk .text-7 {
+    color: white;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: bold;
+    left: 350px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    width: 190px;
+}
+
+.homepage-while-hover-produk .nav-bg {
+    background-color: red;
+    height: 52px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+}
+
+.homepage-while-hover-produk .promosi {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 661px;
+    position: fixed;
+    top: 20px;
+    width: 80px;
+}
+
+.homepage-while-hover-produk .produk {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 813px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 2px;
+    width: 96px;
+}
+
+.homepage-while-hover-produk .ruangan {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 983px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 2px;
+    width: 96px;
+}
+
+.homepage-while-hover-produk .transliving-logo {
+    height: 37px;
+    left: 168px;
+    object-fit: cover;
+    position: fixed;
+    top: 11px;
+    width: 221px;
+}
+
+.homepage-while-hover-produk .wishlist {
+    height: 31px;
+    left: 1122px;
+    position: fixed;
+    top: 13px;
+    width: 31px;
+}
+
+.homepage-while-hover-produk .overlap-group {
+    height: 24px;
+    left: 3px;
+    position: relative;
+    top: 3px;
+    width: 26px;
+}
+
+.homepage-while-hover-produk .vector {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.homepage-while-hover-produk .vector-1 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.homepage-while-hover-produk .search {
+    height: 35px;
+    left: 1194px;
+    position: fixed;
+    top: 9px;
+    width: 36px;
+}
+
+.homepage-while-hover-produk .overlap-group1 {
+    background-image: url(vector-4.svg);
+    background-size: 100% 100%;
+    height: 26px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 27px;
+}
+
+.homepage-while-hover-produk .vector-2 {
+    height: 1px;
+    left: 14px;
+    position: absolute;
+    top: 13px;
+    width: 1px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700|Work+Sans:700");
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

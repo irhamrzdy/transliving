@@ -1,31 +1,33 @@
-.product-details {
+.product-list {
     background-color: white;
     height: 900px;
     position: relative;
     width: 1440px;
 }
 
-.product-details .overlap-group7 {
+.product-list .overlap-group9 {
     height: 17px;
-    left: 566px;
+    left: 652px;
     position: absolute;
-    top: 113px;
-    width: 307px;
+    top: 112px;
+    width: 123px;
 }
 
-.product-details .place {
+.product-list .place {
     color: #00000099;
     font-family: Roboto;
     font-size: 14px;
     font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
     position: absolute;
     text-align: center;
     top: 0;
     width: 60px;
 }
 
-.product-details .produk {
-    color: #00000099;
+.product-list .produk {
+    color: black;
     font-family: Roboto;
     font-size: 14px;
     font-weight: 700;
@@ -37,20 +39,7 @@
     width: 60px;
 }
 
-.product-details .text-1 {
-    color: black;
-    font-family: Roboto;
-    font-size: 14px;
-    font-weight: 700;
-    left: 131px;
-    letter-spacing: 0;
-    position: absolute;
-    text-align: center;
-    top: 0;
-    width: 176px;
-}
-
-.product-details .keyboardarrowright {
+.product-list .keyboardarrowright {
     height: 16px;
     left: 52px;
     position: absolute;
@@ -58,7 +47,7 @@
     width: 16px;
 }
 
-.product-details .overlap-group {
+.product-list .overlap-group {
     background-image: url(vector.svg);
     background-size: 100% 100%;
     height: 8px;
@@ -68,7 +57,7 @@
     width: 6px;
 }
 
-.product-details .vector {
+.product-list .vector {
     height: 1px;
     left: 3px;
     position: absolute;
@@ -76,28 +65,21 @@
     width: 1px;
 }
 
-.product-details .keyboardarrowright-1 {
-    height: 16px;
-    left: 120px;
-    position: absolute;
-    top: 1px;
-    width: 16px;
-}
-
-.product-details .peralatan-makan {
+.product-list .furnitur {
     color: white;
     font-size: 18px;
     font-family: Roboto;
     font-weight: bold;
-    left: 175px;
+    border-radius: 10px;
+    height: 243px;
+    left: 173px;
     overflow: hidden;
     position: absolute;
-    top: 203px;
+    top: 190px;
     width: 344px;
-    border-radius: 10px;
 }
 
-.product-details .overlap-group2 {
+.product-list .overlap-group1 {
     background-image: url(image-1.png);
     background-position: 50% 50%;
     background-size: cover;
@@ -108,7 +90,7 @@
     width: 487px;
 }
 
-.product-details .furnitur {
+.product-list .furnitur-1 {
     height: 149px;
     left: 94px;
     letter-spacing: 0;
@@ -118,21 +100,21 @@
     width: 226px;
 }
 
-.product-details .peralatan-masak {
+.product-list .aksesori {
     color: white;
     font-size: 18px;
     font-family: Roboto;
     font-weight: bold;
+    border-radius: 10px;
     height: 243px;
-    left: 544px;
+    left: 548px;
     overflow: hidden;
     position: absolute;
-    top: 203px;
+    top: 190px;
     width: 344px;
-    border-radius: 10px;
 }
 
-.product-details .overlap-group3 {
+.product-list .overlap-group2 {
     background-image: url(image-1-1.png);
     background-position: 50% 50%;
     background-size: cover;
@@ -143,21 +125,31 @@
     width: 487px;
 }
 
-.product-details .perlengkapan-dapur {
+.product-list .aksesori-1 {
+    height: 149px;
+    left: 94px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 226px;
+}
+
+.product-list .peralatan-masak {
     color: white;
     font-size: 18px;
     font-family: Roboto;
     font-weight: bold;
     border-radius: 10px;
     height: 243px;
-    left: 913px;
+    left: 923px;
     overflow: hidden;
     position: absolute;
-    top: 203px;
+    top: 196px;
     width: 344px;
 }
 
-.product-details .overlap-group4 {
+.product-list .overlap-group3 {
     background-image: url(image-1-2.png);
     background-position: 50% 50%;
     background-size: cover;
@@ -168,7 +160,122 @@
     width: 487px;
 }
 
-.product-details .nav-bg {
+.product-list .peralatan {
+    height: 149px;
+    left: 94px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 226px;
+}
+
+.product-list .perlengkapan {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 243px;
+    left: 173px;
+    overflow: hidden;
+    position: absolute;
+    top: 467px;
+    width: 344px;
+}
+
+.product-list .overlap-group4 {
+    background-image: url(image-1-3.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+
+.product-list .perlengkapan-1 {
+    height: 149px;
+    left: 94px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 226px;
+}
+
+.product-list .penawaran-terbatas {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 243px;
+    left: 548px;
+    overflow: hidden;
+    position: absolute;
+    top: 467px;
+    width: 344px;
+}
+
+.product-list .overlap-group5 {
+    background-image: url(image-1-4.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+
+.product-list .furnitur-2 {
+    height: 149px;
+    left: 94px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 226px;
+}
+
+.product-list .harus-punya {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 243px;
+    left: 923px;
+    overflow: hidden;
+    position: absolute;
+    top: 467px;
+    width: 344px;
+}
+
+.product-list .overlap-group6 {
+    background-image: url(image-1-5.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+
+.product-list .furnitur-3 {
+    height: 149px;
+    left: 94px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 226px;
+}
+
+.product-list .nav-bg {
     background-color: red;
     height: 52px;
     left: 0;
@@ -177,7 +284,7 @@
     width: 1440px;
 }
 
-.product-details .promosi {
+.product-list .promosi {
     color: white;
     font-size: large;
     font-weight: bolder;
@@ -189,7 +296,7 @@
     width: 80px;
 }
 
-.product-details .produk-1 {
+.product-list .produk-1 {
     color: white;
     font-size: large;
     font-weight: bolder;
@@ -203,7 +310,7 @@
     width: 96px;
 }
 
-.product-details .ruangan {
+.product-list .ruangan {
     color: white;
     font-size: large;
     font-weight: bolder;
@@ -217,7 +324,7 @@
     width: 96px;
 }
 
-.product-details .transliving-logo {
+.product-list .transliving-logo {
     height: 37px;
     left: 168px;
     object-fit: cover;
@@ -226,7 +333,7 @@
     width: 221px;
 }
 
-.product-details .wishlist {
+.product-list .wishlist {
     height: 31px;
     left: 1131px;
     position: fixed;
@@ -234,7 +341,7 @@
     width: 31px;
 }
 
-.product-details .overlap-group5 {
+.product-list .overlap-group7 {
     height: 24px;
     left: 3px;
     position: relative;
@@ -242,7 +349,7 @@
     width: 26px;
 }
 
-.product-details .vector-1 {
+.product-list .vector-1 {
     height: 1px;
     left: 12px;
     position: absolute;
@@ -250,7 +357,7 @@
     width: 1px;
 }
 
-.product-details .vector-2 {
+.product-list .vector-2 {
     height: 24px;
     left: 0;
     position: absolute;
@@ -258,7 +365,7 @@
     width: 26px;
 }
 
-.product-details .search {
+.product-list .search {
     height: 35px;
     left: 1203px;
     position: fixed;
@@ -266,7 +373,7 @@
     width: 36px;
 }
 
-.product-details .overlap-group6 {
+.product-list .overlap-group8 {
     background-image: url(vector-4.svg);
     background-size: 100% 100%;
     height: 26px;
@@ -276,7 +383,7 @@
     width: 27px;
 }
 
-.product-details .vector-3 {
+.product-list .vector-3 {
     height: 1px;
     left: 14px;
     position: absolute;
