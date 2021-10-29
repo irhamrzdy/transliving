@@ -1,0 +1,263 @@
+.wishlist {
+    background-color: white;
+    height: 844px;
+    position: relative;
+    width: 1440px;
+}
+
+.wishlist .image-2 {
+    height: 464px;
+    left: 488px;
+    object-fit: cover;
+    position: absolute;
+    top: 161px;
+    width: 464px;
+}
+
+.wishlist .overlap-group3 {
+    height: 17px;
+    left: 643px;
+    position: absolute;
+    top: 124px;
+    width: 123px;
+}
+
+.wishlist .place {
+    color: #00000099;
+    font-family: Roboto;
+    font-size: small;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 60px;
+}
+
+.wishlist .wishlist-1 {
+    color: black;
+    font-family: Roboto;
+    font-size: small;
+    font-weight: 700;
+    left: 63px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 60px;
+}
+
+.wishlist .keyboardarrowright {
+    height: 16px;
+    left: 52px;
+    position: absolute;
+    top: 1px;
+    width: 16px;
+}
+
+.wishlist .overlap-group {
+    background-image: url(vector.svg);
+    background-size: 100% 100%;
+    height: 8px;
+    left: 5px;
+    position: relative;
+    top: 4px;
+    width: 6px;
+}
+
+.wishlist .vector {
+    height: 1px;
+    left: 3px;
+    position: absolute;
+    top: 4px;
+    width: 1px;
+}
+
+.wishlist .text-1 {
+    color: transparent;
+    font-family: Roboto;
+    font-size: medium;
+    font-weight: 700;
+    left: 575px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 662px;
+    width: 290px;
+}
+
+.wishlist .span0 {
+    color: black;
+    font-weight: 700;
+}
+
+.wishlist .span1 {
+    color: #000000b2;
+    font-size: small;
+    font-weight: 400;
+}
+
+.wishlist .overlap-group4 {
+    background-color: #fa0c0ce6;
+    border-radius: 10px;
+    height: 44px;
+    left: 654px;
+    position: absolute;
+    top: 724px;
+    width: 132px;
+}
+
+.wishlist .browse {
+    color: white;
+    font-family: Roboto;
+    font-size: medium;
+    font-weight: 700;
+    height: 43px;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 132px;
+}
+
+.wishlist .nav-bg {
+    background-color: #e80f0f;
+    height: 52px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+}
+
+.wishlist .promosi {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    left: 663px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 18px;
+    width: 80px;
+}
+
+.wishlist .produk {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    left: 815px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 18px;
+    width: 80px;
+}
+
+.wishlist .ruangan {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    left: 985px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 18px;
+    width: 80px;
+}
+
+.wishlist .transliving-logo {
+    height: 37px;
+    left: 168px;
+    object-fit: cover;
+    position: fixed;
+    top: 11px;
+    width: 221px;
+}
+
+.wishlist .wishlist-2 {
+    height: 31px;
+    left: 1122px;
+    position: fixed;
+    top: 13px;
+    width: 31px;
+}
+
+.wishlist .overlap-group1 {
+    height: 24px;
+    left: 3px;
+    position: relative;
+    top: 3px;
+    width: 26px;
+}
+
+.wishlist .vector-1 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.wishlist .vector-2 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.wishlist .search {
+    height: 35px;
+    left: 1194px;
+    position: fixed;
+    top: 9px;
+    width: 36px;
+}
+
+.wishlist .overlap-group2 {
+    background-image: url(vector-4.svg);
+    background-size: 100% 100%;
+    height: 26px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 27px;
+}
+
+.wishlist .vector-3 {
+    height: 1px;
+    left: 14px;
+    position: absolute;
+    top: 13px;
+    width: 1px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700|Work+Sans:700");
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
